@@ -22,7 +22,7 @@ color 파라미터는 RGB를 지정해주는 것이다.
 
 매트릭스가 출력되는데 흰색으로 표현된 빈칸들이 결측치이다.
 
-![Untitled](9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_Zillow%20EDA%20On%20Missing%20Values%20&%20Multicollinea%202548700492ae47249f25b497169d7f10/Untitled.png)
+<img width="1033" alt="Untitled" src="https://github.com/kaggle-study-230311/Week9-Zillow-EDA-On-Missing-Values-Multicollinearity/assets/80809190/16d5ebf2-c7d9-4792-a043-9f97c9f8efcf">
 
 [https://hong-yp-ml-records.tistory.com/14](https://hong-yp-ml-records.tistory.com/14)
 
@@ -60,7 +60,7 @@ train data로부터 학습된 mean값과 variance값을 test data에 적용하�
 
 백분위수 구하기
 
-![Untitled](9%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1_Zillow%20EDA%20On%20Missing%20Values%20&%20Multicollinea%202548700492ae47249f25b497169d7f10/Untitled%201.png)
+<img width="537" alt="Untitled 1" src="https://github.com/kaggle-study-230311/Week9-Zillow-EDA-On-Missing-Values-Multicollinearity/assets/80809190/efd84474-310f-4596-a686-7b68f1fa032f">
 
 [https://m.blog.naver.com/wideeyed/221433769807](https://m.blog.naver.com/wideeyed/221433769807)
 
